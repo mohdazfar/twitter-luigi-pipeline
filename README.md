@@ -1,3 +1,5 @@
+# twitter-luigi-pipeline
+
 This data pipleine is written to analyze data based on certain related keywords. For the sake of example, I have used Twitter data specific to Genereal Elections 2018 in Pakistan but the pipeline can be used for any set of related keywords. Data is extracted from Twitter, cleaned, dumped to database and then analysed in the whole pipeline. The pipeline can be run easily by following the below steps:
 
 **Steps**
